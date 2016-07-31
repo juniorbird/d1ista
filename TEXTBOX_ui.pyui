@@ -1,0 +1,84 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{25, 123}, {485, 312}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "D6025193-3D59-445F-BB89-90FD9A1E3B1C",
+          "font_size" : 17,
+          "corner_radius" : 0,
+          "frame" : "{{170, 170}, {200, 200}}",
+          "tint_color" : "RGBA(0.497642,0.497642,0.497642,1.000000)",
+          "editable" : true,
+          "border_width" : 1,
+          "border_color" : "RGBA(0.558962,0.558962,0.558962,1.000000)",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "text_entry",
+          "flex" : "LRT"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{25, 15}, {485, 90}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRB",
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "6EA8F07F-7706-4419-BC3F-AB7D2DA110B2",
+          "text" : "Question Here",
+          "alignment" : "center",
+          "class" : "Label",
+          "number_of_lines" : 3,
+          "name" : "text_question",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{350, 458}, {160, 58}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LT",
+          "action" : "",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "tint_color" : "RGBA(0.221698,0.221698,0.221698,1.000000)",
+          "title" : "Next >",
+          "class" : "Button",
+          "uuid" : "1595F188-6DF1-4DF6-AA92-C282B113C92C",
+          "background_color" : "RGBA(0.714623,0.714623,0.714623,1.000000)",
+          "font_bold" : true,
+          "font_size" : 15,
+          "name" : "submit"
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "custom_class" : "ui.TEXTBOX",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : ""
+    }
+  }
+]
